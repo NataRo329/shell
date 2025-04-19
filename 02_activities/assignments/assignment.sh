@@ -48,6 +48,10 @@ rm data/processed/user_logs/*ipaddr*
 
 find data/processed -type f > data/inventory.txt
 
+#with changes
+
+
+
 ###########################################
 
 echo "Project setup is complete!"
